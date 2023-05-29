@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+marquee{
+    color: rgb(5, 59, 5);
+    font-weight: bold;
+}
+
+.box{
+    padding: 10px 10px;
+    background-color: rgb(230, 223, 223);
+}
+
+.box h6{
+    font-size: 18px;
+    font-weight: bold;
+}
